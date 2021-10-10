@@ -1,0 +1,4 @@
+images-dataset-compressed
+*.pyc
+core/__*
+venv
